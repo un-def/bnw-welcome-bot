@@ -94,6 +94,7 @@ file_diff = users_from_file - users_from_api
 
 if not api_diff and not file_diff:
     print("no changes")
+    print("-"*40)
     sys.exit()
 
 save_to_file(users_file, users_from_api)
