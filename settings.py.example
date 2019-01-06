@@ -1,6 +1,0 @@
-# -*- coding: utf-8 -*-
-token = 'TOKEN'
-users_file = 'bnw_welcome_users.txt'
-sleep = 10   # seconds
-added_max_timedelta = 86400   # seconds
-
